@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on stats projects
+
 <!--
 **alfredosepulveda/alfredosepulveda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
